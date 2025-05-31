@@ -1,3 +1,0 @@
-D:/Technopark/Algorithms/cmake-build-debug/CMakeFiles/Algorythms.dir
-D:/Technopark/Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Technopark/Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
